@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-banner.svg" alt="Zach Pierce / BG-Red Header Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/BG-Red/BG-Red/main/assets/hero-banner.svg" alt="Zach Pierce / BG-Red Header Banner" width="100%" />
 
 <br/><br/>
 
