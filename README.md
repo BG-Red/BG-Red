@@ -104,16 +104,18 @@ Whether it's building a 60 FPS vector play-designer, orchestrating autonomous in
 
 ---
 
-### 📊 Real-Time GitHub Activity
+### 🏛️ Engineering Pillars & Architecture
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BG-Red&theme=tokyonight&hide_border=true&stroke=ff3366&ring=ff3366&fire=ff3366&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3366" alt="BG-Red GitHub Streak" />
+<img src="https://raw.githubusercontent.com/BG-Red/BG-Red/main/assets/engineering-card.svg" alt="Engineering Architecture & Capabilities" width="100%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=BG-Red&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff4b4b&icon_color=ff4b4b&text_color=c9d1d9&bg_color=0d1117" alt="BG-Red GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BG-Red&layout=compact&theme=tokyonight&hide_border=true&title_color=ff4b4b&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="49%" />
+[![GitHub Activity](https://img.shields.io/badge/Activity-Active_Contributor-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/BG-Red)
+[![Public Repos](https://img.shields.io/badge/Public_Repositories-Active_Showcases-30363d?style=flat-square&logo=git&logoColor=white)](https://github.com/BG-Red?tab=repositories)
+[![Production Architecture](https://img.shields.io/badge/Architecture-Clean_%26_Resilient-ff3366?style=flat-square&logo=diagram-next&logoColor=white)](https://github.com/BG-Red)
+[![Cross-Platform Delivery](https://img.shields.io/badge/Delivery-Web_•_iOS_•_Android_•_Cloud-00d2ff?style=flat-square&logo=google-cloud&logoColor=white)](https://github.com/BG-Red)
 
 </div>
 
