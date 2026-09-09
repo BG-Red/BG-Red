@@ -72,7 +72,8 @@
 
   <!-- Main Name Header -->
   <g transform="translate(42, 115)">
-    <text class="sans-text title-text" fill="#ffffff">ZACH PIERCE <tspan class="mono-text handle-text" fill="url(#accent-grad)">/ BG-Red</tspan></text>
+    <text class="mono-text" font-size="44" font-weight="900" letter-spacing="-1px" fill="url(#accent-grad)">BG-RED</text>
+    <text x="210" y="-3" class="sans-text" font-size="20" font-weight="500" fill="#8b949e">/ Zach Pierce</text>
   </g>
 
   <!-- Role / Headline -->
